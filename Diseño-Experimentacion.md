@@ -64,7 +64,7 @@ Fase 5
   - <a href="https://youtu.be/fabKK6QXj8I" target="_blank"> Video F5.1: Sistema automático para capturar imágenes en escenario Chroma </a>
 
 <a href="https://youtu.be/fabKK6QXj8I" target="_blank">
-<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF2.3.jpeg?token=AHUDV4ZRTSM4WR3MF7FVDILAZSRO4" data-canonical-src="" width="320" height="180" />
+<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF5.1.png?token=AHUDV4Y7MPLX7PUH7ARQ7H3AZTTCM" data-canonical-src="" width="320" height="180" />
 </a>
 
   - <a href="https://youtu.be/QIjpDv4aR1E" target="_blank"> Video F5.2: Comprobar eficacia de usar código QR </a>
