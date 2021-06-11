@@ -4,7 +4,7 @@ Fase 1
 
 
 <a href="https://youtu.be/8XBuYrMOcsg" target="_blank">
-<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF1.1.jpeg?token=AHUDV4Z4BELBPOJR3CM4QOTAZSBES" data-canonical-src="" width="640" height="360" />
+<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF1.1.jpeg?token=AHUDV4Z4BELBPOJR3CM4QOTAZSBES" width="640" height="360" />
 </a>
   
   - Video F1.2
