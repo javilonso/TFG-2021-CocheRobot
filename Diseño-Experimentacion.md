@@ -45,7 +45,7 @@ Fase 3
   - <a href="https://youtu.be/iCVZ2Vq32-g" target="_blank"> Video F4.1: Prueba del sistema de búsqueda y recogida de objetos en línea recta" </a>
 
 <a href="https://youtu.be/iCVZ2Vq32-g" target="_blank">
-<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF2.3.jpeg?token=AHUDV4ZRTSM4WR3MF7FVDILAZSRO4" data-canonical-src="" width="320" height="180" />
+<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF3.1.jpeg?token=AHUDV44WHWHQRWSNINK4J4DAZTG3E" data-canonical-src="" width="320" height="180" />
 </a>
 
 
@@ -54,7 +54,7 @@ Fase 4
   - <a href="https://youtu.be/z_sj-e0A_Fs" target="_blank"> Video F4.1: Prueba del sistema de búsqueda y recogida de objetos en línea recta" </a>
 
 <a href="https://youtu.be/z_sj-e0A_Fs" target="_blank">
-<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF2.3.jpeg?token=AHUDV4ZRTSM4WR3MF7FVDILAZSRO4" data-canonical-src="" width="320" height="180" />
+<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF4.1.png?token=AHUDV46RHGGAGVPEXECHOVDAZTG2I" data-canonical-src="" width="320" height="180" />
 </a>
 
 
