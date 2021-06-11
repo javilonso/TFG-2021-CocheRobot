@@ -3,3 +3,4 @@ theme: jekyll-theme-slate
 layout: page
 title: "PAGE TITLE"
 permalink: /URL-PATH/
+filename: "index2.md"
