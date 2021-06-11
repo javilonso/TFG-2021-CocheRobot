@@ -16,7 +16,7 @@ Fase 2
 
   - Video F2.1
 
-<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF2.1.jpeg?token=AHUDV4ZSBADPNSGXDMQH3PDAZSE52" data-canonical-src="https://youtu.be/zjQyjXJ_OiE" width="640" height="360" />
+<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF2.1.jpeg?token=AHUDV425D3MCGHRFA5UAZ3TAZSFII" data-canonical-src="https://youtu.be/zjQyjXJ_OiE" width="640" height="360" />
 
   - Video F2.2
 
