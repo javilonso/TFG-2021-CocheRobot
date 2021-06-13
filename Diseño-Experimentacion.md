@@ -54,14 +54,14 @@ Fase 4
   - <a href="https://youtu.be/LxN3a1TfHlU" target="_blank"> Video F4.1: Prueba de un sistema de recogida de objetos de otro usuario </a>
 
 <a href="https://youtu.be/LxN3a1TfHlU" target="_blank">
-<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF4.1.png?token=AHUDV46RHGGAGVPEXECHOVDAZTG2I" data-canonical-src="" width="320" height="180" />
+<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail%20_videoF4.1.png?raw=true" data-canonical-src="" width="320" height="180" />
 </a>
 
 
   - <a href="https://youtu.be/XADA1jtvlT4" target="_blank"> Video F4.2: Prueba del diseño propio de sistema de recogida de objetos </a>
 
 <a href="https://youtu.be/XADA1jtvlT4" target="_blank">
-<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF4.1.png?token=AHUDV46RHGGAGVPEXECHOVDAZTG2I" data-canonical-src="" width="320" height="180" />
+<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF4.2.png?token=AHUDV4Y2TQE4VJIUCQA3KUTAZ4PKC" data-canonical-src="" width="320" height="180" />
 </a>
 
 
