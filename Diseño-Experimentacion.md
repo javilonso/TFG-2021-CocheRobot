@@ -42,7 +42,7 @@ Fase 2
 
 Fase 3
 
-  - <a href="https://youtu.be/iCVZ2Vq32-g" target="_blank"> Video F4.1: Prueba del sistema de búsqueda y recogida de objetos en línea recta </a>
+  - <a href="https://youtu.be/iCVZ2Vq32-g" target="_blank"> Video F3.1: Imágenes generadas con técnicas de augmentation </a>
 
 <a href="https://youtu.be/iCVZ2Vq32-g" target="_blank">
 <img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF3.1.jpeg?token=AHUDV44WHWHQRWSNINK4J4DAZTG3E" data-canonical-src="" width="320" height="180" />
@@ -76,22 +76,22 @@ Fase 5
   - <a href="https://youtu.be/fabKK6QXj8I" target="_blank"> Video F5.1: Sistema automático para capturar imágenes en escenario Chroma </a>
 
 <a href="https://youtu.be/fabKK6QXj8I" target="_blank">
-<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF2.3.jpeg?token=AHUDV4ZRTSM4WR3MF7FVDILAZSRO4" data-canonical-src="" width="320" height="180" />
+<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF5.1.png?token=AHUDV4Y7MPLX7PUH7ARQ7H3AZTTCM" data-canonical-src="" width="320" height="180" />
 </a>
 
   - <a href="https://youtu.be/QIjpDv4aR1E" target="_blank"> Video F5.2: Comprobar eficacia de usar código QR </a>
 
 <a href="https://youtu.be/QIjpDv4aR1E" target="_blank">
-<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF2.3.jpeg?token=AHUDV4ZRTSM4WR3MF7FVDILAZSRO4" data-canonical-src="" width="320" height="180" />
+<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF5.2.png?token=AHUDV4ZXOFNCK35ATA2NGALAZTS4U" data-canonical-src="" width="320" height="180" />
 </a>
 
   - <a href="https://youtu.be/gRMvEpO3HX8" target="_blank"> Video F5.3: Comprobar eficacia de usar código ArUco </a>
 
 <a href="https://youtu.be/gRMvEpO3HX8" target="_blank">
-<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF2.3.jpeg?token=AHUDV4ZRTSM4WR3MF7FVDILAZSRO4" data-canonical-src="" width="320" height="180" />
+<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF5.3.png?token=AHUDV42FWT5R2MOHJWGQTYDAZTS6G" data-canonical-src="" width="320" height="180" />
 </a>
 
-  - <a href="https://youtu.be/8UoTrjzoNNE" target="_blank"> Video F5.4: Primera prueba sistema completo " </a>
+  - <a href="https://youtu.be/8UoTrjzoNNE" target="_blank"> Video F5.4: Primera prueba sistema completo </a>
 
 <a href="https://youtu.be/8UoTrjzoNNE" target="_blank">
 <img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF5.4.jpeg?token=AHUDV4ZAZ7NYKHD67QFVJUDAZTRSE" data-canonical-src="" width="320" height="180" />
