@@ -4,7 +4,7 @@ Fase 1
 
 
 <a href="https://youtu.be/8XBuYrMOcsg" target="_blank" >
-<img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/thumbnail%20_videoF1.1.jpeg?token=AHUDV4Z4BELBPOJR3CM4QOTAZSBES" width="320" height="180" />
+<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail%20_videoF1.1.jpeg" width="320" height="180" />
 </a>
   
   - <a href="https://youtu.be/5gIka_E5veU" target="_blank"> Video F1.2: Seguimiento y Aproximación por color a objetos (cubo Lego azul)</a> 
