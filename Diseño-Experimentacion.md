@@ -51,7 +51,9 @@ Fase 3
 
 Fase 4
 
-  - <a href="https://youtu.be/LxN3a1TfHlU" target="_blank"> Video F4.1: Prueba de un sistema de recogida de objetos de otro usuario </a>
+  - <a href="https://youtu.be/LxN3a1TfHlU" target="_blank"> Video F4.1: Prueba de un sistema de recogida de objetos de otro usuario </a> <a href="https://www.thingiverse.com/thing:51403/files" target="_blank"> Link modelo </a>
+
+
 
 <a href="https://youtu.be/LxN3a1TfHlU" target="_blank">
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF4.1.png" data-canonical-src="" width="320" height="180" />
