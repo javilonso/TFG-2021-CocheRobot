@@ -1,4 +1,4 @@
-Fase 1
+**Fase 1**
 
   - <a href="https://youtu.be/8XBuYrMOcsg" target="_blank" > Video F1.1: Seguimiento por color de objetos (pelota tenis) </a>
 
@@ -19,7 +19,7 @@ Fase 1
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF1.3.jpeg" data-canonical-src="" width="320" height="180" />
 </a>
 
-Fase 2
+**Fase 2**
 
   - <a href="https://youtu.be/zjQyjXJ_OiE" target="_blank"> Video F2.1: Segmentación de cubo Lego sobre escenario Chroma 2</a>
 
@@ -40,7 +40,7 @@ Fase 2
 </a>
 
 
-Fase 3
+**Fase 3**
 
   - <a href="https://youtu.be/iCVZ2Vq32-g" target="_blank"> Video F3.1: Imágenes generadas con técnicas de augmentation </a>
 
@@ -49,7 +49,7 @@ Fase 3
 </a>
 
 
-Fase 4
+**Fase 4**
 
   - <a href="https://youtu.be/LxN3a1TfHlU" target="_blank"> Video F4.1: Prueba de un sistema de recogida de objetos de otro usuario </a>    <a href="https://www.thingiverse.com/thing:51403/files" target="_blank">   [Link modelo] </a>
 
@@ -73,7 +73,7 @@ Fase 4
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF4.3.png" data-canonical-src="" width="320" height="180" />
 </a>
 
-Fase 5
+**Fase 5**
 
   - <a href="https://youtu.be/fabKK6QXj8I" target="_blank"> Video F5.1: Sistema automático para capturar imágenes en escenario Chroma </a>
 
