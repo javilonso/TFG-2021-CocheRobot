@@ -75,9 +75,15 @@
 
 ## **Fase 5**
 
-  - <a href="https://youtu.be/fabKK6QXj8I" target="_blank"> Video F5.1: Sistema automático para capturar imágenes en escenario Chroma </a>
+  - <a href="https://youtu.be/xBhjrggt7Lo" target="_blank"> Video F5.1: Sistema automático para capturar imágenes en escenario Chroma </a>
 
-<a href="https://youtu.be/fabKK6QXj8I" target="_blank">
+<a href="https://youtu.be/xBhjrggt7Lo" target="_blank">
+<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF5.1_extra.png" data-canonical-src="" width="320" height="180" />
+</a>
+
+  - <a href="https://youtu.be/9aOTlK2f8YA" target="_blank"> Video F5.1 Extra: Segmentación imagenes de cubo Lego sobre escenario Chroma en Sistema Automático</a>
+
+<a href="https://youtu.be/9aOTlK2f8YA" target="_blank">
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF5.1.png" data-canonical-src="" width="320" height="180" />
 </a>
 
