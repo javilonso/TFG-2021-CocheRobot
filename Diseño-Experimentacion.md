@@ -27,7 +27,7 @@
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF2.1.jpeg" data-canonical-src="" width="320" height="180" />
 </a>
 
-  - <a href="https://youtu.be/zjQyjXJ_OiE" target="_blank">Video F2.2: Segmentación de cubo Lego sobre base giratoria en escenario Chroma 2 </a>
+  - <a href="https://youtu.be/cM6metp74ck" target="_blank">Video F2.2: Segmentación de cubo Lego sobre base giratoria en escenario Chroma 2 </a>
 
 <a href="https://youtu.be/cM6metp74ck" target="_blank">
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF2.2.jpeg" data-canonical-src="" width="320" height="180" />
