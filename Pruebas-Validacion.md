@@ -1,5 +1,5 @@
 
-## Pruebas relacionadas con el escenario
+# Pruebas relacionadas con el escenario
 
 ### - V-E-01
 Objetivo: Comprobar si el color verde de las cartulinas del escenario Croma permite aislar el objeto eliminando el fondo con imágenes tomadas desde el coche robot.
@@ -22,7 +22,7 @@ Objetivo: Comprobar si el escenario final dispone de iluminación uniforme.
 Resultado: Se puede visualizar el siguiente video para validar la prueba.
   <a href="https://youtu.be/FU5BDELNgb8" target="_blank"> V-E-03: Comprobar iluminación escenario  </a>
 
-## Pruebas relacionadas con el coche robot
+# Pruebas relacionadas con el coche robot
 
 ### - V-CR-01
 Objetivo: Comprobar el peso máximo puede transportar el coche robot con su sistema de pinzas.
@@ -56,7 +56,7 @@ Resultado: Se puede visualizar el siguiente video hasta el minuto 2:00 para vali
   <a href="https://youtu.be/KFsChXSeRE8?t=120" target="_blank"> Video F5.6: Tercera prueba sistema completo  </a>
 
 
-## Pruebas relacionadas con el sistema de detección de objetos
+# Pruebas relacionadas con el sistema de detección de objetos
 
 ### - V-SDO-01
 Objetivo: Comprobar el funcionamiento del sistema automático para recoger imágenes. Estas imágenes son usadas como conjunto de entrenamiento para el sistema de detección de objetos.
