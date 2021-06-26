@@ -1,14 +1,14 @@
 
 # Pruebas relacionadas con el escenario
 
-### - V-E-01
+## - V-E-01
 **Objetivo**: Comprobar si el color verde de las cartulinas del escenario Croma permite aislar el objeto eliminando el fondo con imágenes tomadas desde el coche robot.
 
 **Resultado**: Se puede visualizar el siguiente video para validar la prueba.
 
 <a href="https://youtu.be/zjQyjXJ_OiE" target="_blank"> Video F2.1: Segmentación de cubo Lego sobre escenario Chroma 2</a>
 
-### - V-E-02
+## - V-E-02
 **Objetivo**: Comprobar los siguientes aspectos del escenario:
 1.	Dispone de unas dimensiones mínimas de 120x120 cm.
 2.	El coche robot puede hacer un giro completo en el escenario sin chocar con paredes.
@@ -16,7 +16,7 @@
 **Resultado**: Se puede visualizar el siguiente video para validar la prueba.
   <a href="https://youtu.be/eELcx224uiY" target="_blank"> V-E-02: Comprobar tamaño escenario y giro completo del vehículo</a>
 
-### - V-E-03
+## - V-E-03
 **Objetivo**: Comprobar si el escenario final dispone de iluminación uniforme.
 
 **Resultado**: Se puede visualizar el siguiente video para validar la prueba.
@@ -24,7 +24,7 @@
 
 # Pruebas relacionadas con el coche robot
 
-### - V-CR-01
+## - V-CR-01
 **Objetivo**: Comprobar el peso máximo puede transportar el coche robot con su sistema de pinzas.
 
 **Resultado**: Se puede visualizar el siguiente video para validar la prueba.
