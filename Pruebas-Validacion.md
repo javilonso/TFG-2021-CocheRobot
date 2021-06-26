@@ -101,11 +101,5 @@
 
   <a href="https://youtu.be/ti0INz-PXlc?t=56" target="_blank"> Video F4.3: Prueba del sistema de búsqueda y recogida de objetos en línea recta </a>
 
-## - V-SDO-06
-**Objetivo**: Comprobar si el sistema de detección de objetos es capaz de encontrar un objeto específico (cubo Lego) colocado en una orientación que no se visualizó en el entrenamiento.
-
-**Resultado**: Se puede visualizar el siguiente video para validar la prueba.
-
-
 
 
