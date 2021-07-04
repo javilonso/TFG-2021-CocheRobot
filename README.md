@@ -10,7 +10,7 @@ Se ha desarrollado un vehículo robotizado con la capacidad para realizar de man
  <a href="https://youtu.be/KBU4-xeAeg8" target="_blank"> Video F5.5: Segunda prueba sistema completo </a>
 
 <a href="https://youtu.be/KBU4-xeAeg8" target="_blank">
-<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF5.5.jpeg" data-canonical-src="" width="320" height="180" />
+<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF5.5.jpeg" data-canonical-src="" width="640" height="360" />
 </a>
 
 
