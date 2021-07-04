@@ -32,6 +32,8 @@ Se ha desarrollado un vehículo robotizado con la capacidad para realizar de man
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF5.1_extra.png" data-canonical-src="" width="640" height="360" />
 </a>
 
+Más videos disponibles en <a href="https://github.com/javilonso/TFG-2021-CocheRobot/edit/main/Videos/" target="_blank"> carpeta /Videos</a>
+
 
 ### Funcionamiento completo del sistema explicado gráficamente:
 
