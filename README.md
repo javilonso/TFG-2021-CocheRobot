@@ -5,7 +5,7 @@ Se ha desarrollado un vehículo robotizado con la capacidad para realizar de man
 
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/main.png" width="1050" height="720" />
 
-### Video relevantes del sistema:
+## Video relevantes del sistema:
 
   <a href="https://youtu.be/8UoTrjzoNNE" target="_blank"> Video F5.4: Primera prueba sistema completo </a>
 
@@ -35,7 +35,7 @@ Se ha desarrollado un vehículo robotizado con la capacidad para realizar de man
 Más videos disponibles en <a href="https://github.com/javilonso/TFG-2021-CocheRobot/edit/main/Videos/" target="_blank"> carpeta /Videos</a>
 
 
-### Funcionamiento completo del sistema explicado gráficamente:
+## Funcionamiento completo del sistema explicado gráficamente:
 
 En primer lugar, el vehículo recibe la órden para buscar un objeto en concreto. Abandona su base de estacionamiento y comienza la búsqueda.
 
