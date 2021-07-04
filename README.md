@@ -4,6 +4,7 @@
 Se ha desarrollado un vehículo robotizado con la capacidad para realizar de manera autónoma tareas de conducción, búsqueda y recogida de objetos específicos, y retorno a una base de estacionamiento. 
 
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/main.png" width="1050" height="720" />
+
 ### Video relevantes del sistema:
 
   <a href="https://youtu.be/8UoTrjzoNNE" target="_blank"> Video F5.4: Primera prueba sistema completo </a>
@@ -22,13 +23,13 @@ Se ha desarrollado un vehículo robotizado con la capacidad para realizar de man
   <a href="https://youtu.be/xBhjrggt7Lo" target="_blank"> Video F5.1: Sistema automático para capturar imágenes en escenario Chroma </a>
 
 <a href="https://youtu.be/xBhjrggt7Lo" target="_blank">
-<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF5.1.png" data-canonical-src="" width="320" height="180" />
+<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF5.1.png" data-canonical-src="" width="640" height="360" />
 </a>
 
   <a href="https://youtu.be/9aOTlK2f8YA" target="_blank"> Video F5.1 Extra: Segmentación imagenes de cubo Lego sobre escenario Chroma en Sistema Automático</a>
 
 <a href="https://youtu.be/9aOTlK2f8YA" target="_blank">
-<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF5.1_extra.png" data-canonical-src="" width="320" height="180" />
+<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF5.1_extra.png" data-canonical-src="" width="640" height="360" />
 </a>
 
 
