@@ -4,7 +4,6 @@
 Se ha desarrollado un vehículo robotizado con la capacidad para realizar de manera autónoma tareas de conducción, búsqueda y recogida de objetos específicos, y retorno a una base de estacionamiento. 
 
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/main.png" width="1050" height="720" />
-
 ### Video relevantes del sistema:
 
   <a href="https://youtu.be/8UoTrjzoNNE" target="_blank"> Video F5.4: Primera prueba sistema completo </a>
