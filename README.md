@@ -1,7 +1,7 @@
-# TFG Javier Alonso Mencia [2020-2021]
-## Robot para Localización de Objetos mediante Visión basada en _Deep Learning_
+# Degree Final Project - Javier Alonso Mencia [2020-2021]
+## Robot for Object Detection by using Vision based on Deep Learning
 
-Se ha desarrollado un vehículo robotizado con la capacidad para realizar de manera autónoma tareas de conducción, búsqueda y recogida de objetos específicos, y retorno a una base de estacionamiento. 
+A robotic vehicle has been developed with the capability to autonomously perform driving tasks, search and pick up specific objects, and return to a home base. 
 
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/main.png" width="1050" height="720" />
 
@@ -35,18 +35,17 @@ Se ha desarrollado un vehículo robotizado con la capacidad para realizar de man
 Más videos disponibles en <a href="https://github.com/javilonso/TFG-2021-CocheRobot/edit/main/Videos/" target="_blank"> carpeta /Videos</a>
 
 
-## Funcionamiento completo del sistema explicado gráficamente:
+## Complete operation of the system explained graphically:
 
-En primer lugar, el vehículo recibe la órden para buscar un objeto en concreto. Abandona su base de estacionamiento y comienza la búsqueda.
+First, the vehicle receives the order to search for a specific object. It leaves its home base and starts the search.
 
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/main_1.png" width="650" height="203" />
 
-En segundo lugar, mediante el uso del sistema de detección de objetos diseñado basado en _Deep Learning_, el vehículo buscará y se aproximará al objeto.
+Secondly, by using the object detection system based on Deep Learning, the vehicle will search and approach to an specific object.
   
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/main_2.png" width="650" height="203" />
  
-
-En tercer lugar, cuando el objeto detectado se encuentre a una distancia próxima, será recogido con el sistema de pinzas diseñado. Finalmente, el robot realizará la búsqueda de su base de estacionamiento para dirigirse a ella y depositar el objeto.
+Thirdly, when the detected object is at a close distance, it will be picked up with the designed gripper system. Finally, the robot will search for its home base to go to it and deposit the object.
   
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/main_3.png" width="650" height="203" />
 
