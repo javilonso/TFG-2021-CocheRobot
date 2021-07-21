@@ -32,7 +32,7 @@ A robotic vehicle has been developed with the capability to autonomously perform
 <img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/thumbnail_videoF5.1_extra.png" data-canonical-src="" width="640" height="360" />
 </a>
 
-More videos available at <a href="https://github.com/javilonso/TFG-2021-CocheRobot/edit/main/Videos/" target="_blank"> folder /Videos</a>
+More videos available at folder <a href="https://github.com/javilonso/TFG-2021-CocheRobot/tree/main/Videos" target="_blank"> /Videos</a>
 
 
 ## Complete operation of the system explained graphically:
