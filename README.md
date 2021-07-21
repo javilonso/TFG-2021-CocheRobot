@@ -39,13 +39,13 @@ Más videos disponibles en <a href="https://github.com/javilonso/TFG-2021-CocheR
 
 First, the vehicle receives the order to search for a specific object. It leaves its home base and starts the search.
 
-<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/main_1.png" width="650" height="203" />
+<img src="https://user-images.githubusercontent.com/31996659/126461738-d8729492-77cc-4c80-8174-5f991afde9ec.png" width="650" height="203" />
 
 Secondly, by using the object detection system based on Deep Learning, the vehicle will search and approach to an specific object.
   
-<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/main_2.png" width="650" height="203" />
+<img src="https://user-images.githubusercontent.com/31996659/126461751-62c1a325-6255-4a91-8fed-f7c88fe07393.png" width="650" height="203" />
  
 Thirdly, when the detected object is at a close distance, it will be picked up with the designed gripper system. Finally, the robot will search for its home base to go to it and deposit the object.
   
-<img src="https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/main_3.png" width="650" height="203" />
+<img src="https://user-images.githubusercontent.com/31996659/126461757-98a19a5d-6ce9-4ace-af32-39174615f77b.png" width="650" height="203" />
 
