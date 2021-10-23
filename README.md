@@ -8,7 +8,8 @@ A robotic vehicle has been developed with the capability to autonomously perform
 ## Video Summary of the Project:
 
   <a href="https://www.youtube.com/watch?v=-gOM55i1eXo" target="_blank"> </a>
-
+  
+<img src=" https://github.com/javilonso/TFG-2021-CocheRobot/blob/main/img/final.png" width="640" height="360" />
 
 More videos available at folder <a href="https://github.com/javilonso/TFG-2021-CocheRobot/tree/main/Videos" target="_blank"> /Videos</a>
 
