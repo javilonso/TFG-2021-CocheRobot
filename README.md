@@ -11,7 +11,7 @@ A robotic vehicle has been developed with the capability to autonomously perform
   
 <a href="https://www.youtube.com/watch?v=-gOM55i1eXo" target="_blank"></a>
   
-  <img src=" https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/final.png"/>
+  <img src="https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/final.png" width="720" height="480"/>
 
 More videos available at folder <a href="https://github.com/javilonso/TFG-2021-CocheRobot/tree/main/Videos" target="_blank"> /Videos</a>
 
