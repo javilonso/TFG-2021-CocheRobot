@@ -9,7 +9,7 @@ A robotic vehicle has been developed with the capability to autonomously perform
 
   <a href="https://www.youtube.com/watch?v=-gOM55i1eXo" target="_blank">https://www.youtube.com/watch?v=-gOM55i1eXo </a>
   
-<a href="https://www.youtube.com/watch?v=-gOM55i1eXo" target="_blank"><img src=" https://github.com/javilonso/TFG-2021-CocheRobot/main/img/final.png" width="640" height="360" /></a>
+<a href="https://www.youtube.com/watch?v=-gOM55i1eXo" target="_blank"><img src=" https://raw.githubusercontent.com/javilonso/TFG-2021-CocheRobot/main/img/final.png" width="640" height="360" /></a>
 
 More videos available at folder <a href="https://github.com/javilonso/TFG-2021-CocheRobot/tree/main/Videos" target="_blank"> /Videos</a>
 
